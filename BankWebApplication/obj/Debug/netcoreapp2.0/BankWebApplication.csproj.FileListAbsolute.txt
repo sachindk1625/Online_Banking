@@ -1,0 +1,11 @@
+C:\Users\sachin\source\repos\BankWebApplication\BankWebApplication\bin\Debug\netcoreapp2.0\BankWebApplication.deps.json
+C:\Users\sachin\source\repos\BankWebApplication\BankWebApplication\bin\Debug\netcoreapp2.0\BankWebApplication.runtimeconfig.json
+C:\Users\sachin\source\repos\BankWebApplication\BankWebApplication\bin\Debug\netcoreapp2.0\BankWebApplication.runtimeconfig.dev.json
+C:\Users\sachin\source\repos\BankWebApplication\BankWebApplication\bin\Debug\netcoreapp2.0\BankWebApplication.dll
+C:\Users\sachin\source\repos\BankWebApplication\BankWebApplication\bin\Debug\netcoreapp2.0\BankWebApplication.pdb
+C:\Users\sachin\source\repos\BankWebApplication\BankWebApplication\obj\Debug\netcoreapp2.0\BankWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\sachin\source\repos\BankWebApplication\BankWebApplication\obj\Debug\netcoreapp2.0\BankWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\sachin\source\repos\BankWebApplication\BankWebApplication\obj\Debug\netcoreapp2.0\BankWebApplication.AssemblyInfoInputs.cache
+C:\Users\sachin\source\repos\BankWebApplication\BankWebApplication\obj\Debug\netcoreapp2.0\BankWebApplication.AssemblyInfo.cs
+C:\Users\sachin\source\repos\BankWebApplication\BankWebApplication\obj\Debug\netcoreapp2.0\BankWebApplication.dll
+C:\Users\sachin\source\repos\BankWebApplication\BankWebApplication\obj\Debug\netcoreapp2.0\BankWebApplication.pdb

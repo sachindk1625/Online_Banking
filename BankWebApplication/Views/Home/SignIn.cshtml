@@ -1,0 +1,45 @@
+﻿@model OnlineAccounts
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@if(ViewBag.err!=null)
+{
+    <h1 class="danger">@ViewBag.err</h1>
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="page-header">
+            <h1>Enter the credentials</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="panel panel-success">
+                <div class="panel-body">
+                    <form class="p-a-1" asp-action="SignIn">
+                        <div class="form-group">
+                            <label asp-for="UserName">User ID:</label>
+                            <input type="text" class="form-control" asp-for="UserName" />
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Password">Password:</label>
+                            <input type="password" class="form-control" asp-for="Password" />
+                        </div>
+
+                        <div class="form-group">
+                            <input class="btn btn-primary" type="submit" value="SUBMIT" />
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

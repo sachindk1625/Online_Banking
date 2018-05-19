@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model AccountDetails
+    @if(ViewBag.err!=null)
+    {
+        <h1>@ViewBag.err</h1>
+        <br/>
+    }
+    <div>
+        <form method="post" asp-action="NewOnlineAccount" class="form-horizontal">
+            <div class="form-group">
+                <label asp-for="Ssn">Enter the Your SSN </label>
+                <input asp-for="Ssn" type="text" class="form-control"  />
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary" value="SUBMIT"/>
+            </div>
+
+        </form>
+    </div>
